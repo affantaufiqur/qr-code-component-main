@@ -8,19 +8,19 @@ body {
 
 .card {
   background: #ffff;
-  width: 25rem;
+  width: 23rem;
   aspect-ratio: 1/1.5;
   position: fixed;
   inset: 0;
   margin: auto;
-  border-radius: 12px;
+  border-radius: 16px;
   text-align: center;
   box-shadow: 0px 15px 41px -21px rgba(0, 0, 0, 0.25);
 }
 
 .card img {
   object-fit: contain;
-  width: 23rem;
+  width: 21rem;
   border-radius: 0.5rem;
   margin-top: 1rem;
 }
