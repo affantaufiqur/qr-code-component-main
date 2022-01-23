@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I still don't know how to properly centering image inside of the parent element, might have to learn more about that. Using chrome dev tool to make changes live is really helfull.
+I still don't know how to properly centering image inside of the parent element, might have to learn more about that. Using chrome dev tool to make changes live is really helpfull.
 
 ### Useful resources
 
