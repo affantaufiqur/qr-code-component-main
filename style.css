@@ -1,0 +1,44 @@
+* {
+  font-family: "outfit";
+}
+
+body {
+  background: hsl(212, 45%, 89%);
+}
+
+.card {
+  background: #ffff;
+  width: 25rem;
+  aspect-ratio: 1/1.5;
+  position: fixed;
+  inset: 0;
+  margin: auto;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0px 15px 41px -21px rgba(0, 0, 0, 0.25);
+}
+
+.card img {
+  object-fit: contain;
+  width: 23rem;
+  border-radius: 0.5rem;
+  margin-top: 1rem;
+}
+
+.card h1,
+p {
+  padding: 0 1.75rem;
+}
+
+.card h1 {
+  font-size: 26px;
+  color: hsl(218, 44%, 22%);
+  font-weight: 700;
+  margin: 1rem 0;
+}
+
+.card p {
+  font-size: 15px;
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
+}
