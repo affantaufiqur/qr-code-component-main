@@ -13,7 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/affantaufiqur/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [here](https://qr-code-component-main-theta.vercel.app/)
 
 ### Built with
 
@@ -26,8 +26,8 @@ I still don't know how to properly centering image inside of the parent element,
 
 ### Useful resources
 
-(https://www.youtube.com/watch?v=jx5jmI0UlXU) - This helped me centering the card using.
-(https://box-shadow.dev/) - Helped me generating box shadow
+[youtube](https://www.youtube.com/watch?v=jx5jmI0UlXU) - This helped me centering the card using.
+[box-shadow.dev](https://box-shadow.dev/) - Helped me generating box shadow
 
 ## Author
 
