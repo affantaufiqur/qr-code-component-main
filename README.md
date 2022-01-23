@@ -8,11 +8,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/Screenshot.jpg)
+![](./images/Screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/affantaufiqur/qr-code-component-main)
 - Live Site URL: [here](https://qr-code-component-main-theta.vercel.app/)
 
 ### Built with
@@ -22,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I still don't know how to properly centering image inside of the parent element, might have to learn more about that. Using chrome dev tool to make changes live is really helfull.
+I still don't know how to properly centering image inside of the parent element, might have to learn more about that. Using chrome dev tool to make changes live is really helpfull.
 
 ### Useful resources
 
